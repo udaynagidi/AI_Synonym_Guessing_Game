@@ -34,7 +34,7 @@ No external dataset is required, but the notebook can be extended to use externa
 ## ▶️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ai-synonym-guessing-game.git
+https://colab.research.google.com/drive/1YcF-v_rSnOLJCeOlopQnIvQv3W6UAgAB?usp=sharing
 
 ---
 This notebook is ideal for language learners, NLP beginners, and developers interested in educational AI games.
